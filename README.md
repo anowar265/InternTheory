@@ -4,6 +4,8 @@
 
 InternTheory is an online internship portal created to bridge the gap between students seeking internships and companies looking for interns.
 
+<img src="https://user-images.githubusercontent.com/91547105/141511587-9f8c0f08-1f5e-47c7-af81-bf70200a43e9.png" />
+
 ## What this is for
 
 This project was a clone build during Masai School Unit-3 construct week.We had worked on this project for a span of one Week.
