@@ -2,9 +2,9 @@
 
 ![Logo](https://assets.interntheory.com/creative/logo.png)
 
-InternTheory is an online internship portal created to bridge the gap between students seeking internships and companies looking for interns.
+###InternTheory is an online internship portal created to bridge the gap between students seeking internships and companies looking for interns.
 
-<img src="https://user-images.githubusercontent.com/91547105/141511587-9f8c0f08-1f5e-47c7-af81-bf70200a43e9.png" />
+<img src="https://user-images.githubusercontent.com/91547105/154108421-87c9560e-3a72-4ce1-a42b-a2a66e168646.png" />
 
 ## What this is for
 
